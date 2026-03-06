@@ -1,9 +1,8 @@
 
-
 import java.util.HashMap;
 import java.util.Map;
 
-class BookMyStayApp {
+class HashMap {
 
     private HashMap<String, Integer> inventory;
 
@@ -71,3 +70,4 @@ public class UseCase3InventorySetup {
         inventory.displayInventory();
     }
 }
+
